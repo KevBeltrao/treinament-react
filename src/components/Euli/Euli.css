@@ -1,0 +1,7 @@
+.euli {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+  height: 100vh;
+}
